@@ -1,2 +1,2 @@
 Repositorio GitHub:
-https://github.com/keinmoss/sitio-html5
+https://github.com/keinmoss/tecnologias-web
